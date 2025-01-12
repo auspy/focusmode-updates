@@ -3,20 +3,22 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 1.1.0</title>
-            <pubDate>Sun, 31 Dec 2023 03:30:00 +0000</pubDate>
-            <sparkle:version>1.1.0</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>Version 2.0.0</title>
+            <pubDate>Sun, 13 Jan 2025 01:43:00 +0000</pubDate>
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <description><![CDATA[
-                <h2>FocusMode 1.1.0</h2>
+                <h2>FocusMode 2.0.0</h2>
                 <ul>
-                    <li>Added automatic update support via Sparkle</li>
-                    <li>Improved app sandboxing</li>
-                    <li>Enhanced security features</li>
+                    <li>New and improved logo</li>
+                    <li>Automatic updates support</li>
+                    <li>Minor UI changes</li>
+                    <li>Pomodoro timer</li>
+                    <li>Start any task using start button without dragging to top</li>
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v1.1.0_test/focusmode_1.1.0.zip"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v2.0.0/focusmode_2.0.0.zip"
                 sparkle:edSignature="8Qaj7x50pJXqegfmQGFasp3VMe8ICy2xAfjVPZCcd+vZyUHHGac2SnYpHtOGviiXMX0v/vkTx7ddwpCNiicvAw=="
                 length="3279653"
                 type="application/octet-stream"/>
