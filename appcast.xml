@@ -4,7 +4,7 @@
         <title>FocusMode Updates</title>
         <item>
             <title>Version 4.0.0</title>
-            <pubDate>Fri, 24 Jan 2025 11:10:00 +0530</pubDate>
+            <pubDate>Fri, 24 Jan 2025 23:10:00 +0530</pubDate>
             <sparkle:version>4.0.0</sparkle:version>
             <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
             <description><![CDATA[
@@ -30,7 +30,7 @@
             <description><![CDATA[
                 <h2>FocusMode 3.2.0</h2>
                 <ul>
-                    <li>Start on login added/li>
+                    <li>Start on login added</li>
                     <li>Linear progress animation</li>
                     <li>Bug fix: Task position reseting on start from quick access panel</li>
                     <li>other minor bug fixes</li>
