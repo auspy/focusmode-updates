@@ -141,6 +141,7 @@
                 url="https://github.com/auspy/focusmode-updates/releases/download/v1.0.0/focusmode.zip"
                 sparkle:edSignature="Mt4dBCdhju9cTVCYXVpyjt2sGp/emjoLG6P0G4iW7h10zrWuwp+6Y6Ic56UstoX0UKJe4ADH2a/Fl7+XuhbqBA=="
                 length="2353910"
+                sparkle:version="1.0.0"
                 type="application/octet-stream"/>
         </item>
     </channel>
