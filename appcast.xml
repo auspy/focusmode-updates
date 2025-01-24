@@ -3,6 +3,26 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
+            <title>Version 5.0.0</title>
+            <pubDate>Fri, 25 Jan 2025 04:16:00 +0530</pubDate>
+            <sparkle:version>5.0.0</sparkle:version>
+            <sparkle:shortVersionString>5.0.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>FocusMode 5.0.0</h2>
+                <ul>
+                    <li>Added Analytics Dashboard to track your focus sessions</li>
+                    <li>New customizable countdown timer styles</li>
+                    <li>Redesigned settings interface for better usability</li>
+                    <li>Various bug fixes and performance improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.0.0/focusmode_v5.0.0.zip"
+                sparkle:edSignature="cwVTu2/tBXp4ex+TcGwN2OmCrPeZ216KvI8q/2GVNxwyDpHPOb260mwTdOisy+JRaUcSYsxDjKCgeyTWjPVxDg=="
+                length="5287484"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 4.0.0</title>
             <pubDate>Fri, 24 Jan 2025 23:10:00 +0530</pubDate>
             <sparkle:version>4.0.0</sparkle:version>
