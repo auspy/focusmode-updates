@@ -5,7 +5,7 @@
         <item>
             <title>Version 4.0.0</title>
             <pubDate>Fri, 24 Jan 2025 23:10:00 +0530</pubDate>
-            <sparkle:version>4.0.0</sparkle:version>
+            <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
             <description><![CDATA[
                 <h2>FocusMode 4.0.0</h2>
