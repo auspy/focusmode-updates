@@ -3,28 +3,28 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 4.1.0</title>
-            <pubDate>Sun, 02 Feb 2025 23:05:00 +0530</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>4.1.0</sparkle:shortVersionString>
+            <title>Version 4.2.0</title>
+            <pubDate>Sun, 09 Feb 2025 23:41:00 +0530</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>4.2.0</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmode-4.1.0">FocusMode 4.1.0</h1>
+<h1 id="focusmode-4.2.0">FocusMode 4.2.0</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Color Customization</strong>: Customize timer colors for different states in Appearance Settings</li>
-<li><strong>Onboarding Flow</strong>: Introduction to Quick Access Panel and key customizations</li>
+<li><strong>Cloud Sync</strong>: This is experimental feature. Looking for volunteers with 2 Macs to test this out. If you’re interested, please <a href="https://focusmo.de/contact">get in touch</a>.</li>
+<li><strong>Compact Mode</strong>: A new setting to hide the dock icon when the main window is closed.</li>
+<li><strong>Status Bar Icon</strong>: Allows you to toggle the quick access panel using icon in the menu bar.</li>
 </ul>
 <h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
-<li>Fixed inconsitent color changes in floating timer states</li>
-<li>Resolved Cmd+N shortcut opening new window</li>
-<li>Improved default color contrast ratios</li>
+<li>Minor bug and optimization fixes.</li>
+<li>Fixed dock icon behavior.</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v4.1.0/focusmode_v4.1.0.zip"
-                sparkle:edSignature="gDs93gZPjddC/hBw+4pjWVTe/99y6AMOKAIaRBx7I/HJvbPZbLlytIWRwaYO6VTXtQn7zcgmk1+66mCtTc7QAA=="
-                length="5662487"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v4.2.0/focusmode_v4.2.0.zip"
+                sparkle:edSignature="gQiKw1fr/ZKESSgRN+QL0D1O1GxLUrg7jXzJ8aPTWVKzWxue2PM3eXkU1IhIGpaliNFYnFwIRdT+4YrdeXApCw=="
+                length="5698946"
                 type="application/octet-stream"/>
         </item>
     </channel>
