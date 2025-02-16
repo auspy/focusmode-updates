@@ -4,26 +4,22 @@
         <title>FocusMode Updates</title>
         <item>
             <title>Version 4.3.0</title>
-            <pubDate>Sun, 16 Feb 2025 22:48:00 +0530</pubDate>
+            <pubDate>Sun, 16 Feb 2025 22:56:00 +0530</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>4.3.0</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmode-4.2.0">FocusMode 4.2.0</h1>
+<h1 id="focusmode-4.3.0">FocusMode 4.3.0</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Cloud Sync</strong>: This is experimental feature. Looking for volunteers with 2 Macs to test this out. If you’re interested, please <a href="https://focusmo.de/contact">get in touch</a>.</li>
-<li><strong>Compact Mode</strong>: A new setting to hide the dock icon when the main window is closed.</li>
-<li><strong>Status Bar Icon</strong>: Allows you to toggle the quick access panel using icon in the menu bar.</li>
-</ul>
-<h2 id="bug-fixes">Bug Fixes</h2>
-<ul>
-<li>Minor bug and optimization fixes.</li>
-<li>Fixed dock icon behavior.</li>
+<li><strong>Notification Styles</strong>: Choose from edges, border and fullscreen, change color and sound of notifications.</li>
+<li><strong>Reminders</strong>: Schedule reminders to help you focus.</li>
+<li><strong>Disable AutoOvertime</strong> : Control the auto-overtime feature.</li>
+<li><strong>Manage Devices</strong>: You can access this feature using status bar icon.</li>
 </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/auspy/focusmode-updates/releases/download/v4.3.0/focusmode_v4.3.0.zip"
-                sparkle:edSignature="zxRH2GKmu13kUej8jBr00SlFxScAEi7rdoLCHHII4TcqFQt68/UHO8CJJjrUkVovO7PtzvBNtxGtST7ttjA5CQ=="
+                sparkle:edSignature="2uOu4tmEXu9lNnOPSQ0A6Pt+i+YQ6/H7ZkkGMDiPX3I9C/4htV2w7kjcC2JkuCfxZ0U8zWBqB+T2cECTXE1ACw=="
                 length="6477911"
                 type="application/octet-stream"/>
         </item>
