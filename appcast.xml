@@ -3,25 +3,27 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 4.4.0</title>
-            <pubDate>Mon, 10 Mar 2025 00:56:00 +0530</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>4.4.0</sparkle:shortVersionString>
+            <title>Version 4.5.0</title>
+            <pubDate>Mon, 17 Mar 2025 01:46:00 +0530</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>4.5.0</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmode-4.3.0">FocusMode 4.3.0</h1>
+<h1 id="focusmode-4.5.0">FocusMode 4.5.0</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Calendar Events</strong> : Never miss an important meeting again. Connects with your apple calendar and shows fullscreen reminders</li>
+<li><strong>Calendar Sync</strong> : Sync all your sessions with Apple Calendar</li>
+<li><strong>Task Reset and Backlog</strong> : Declutter your task list and focus on most important tasks</li>
 </ul>
 <h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
 <li>Minor bug and optimization fixes.</li>
+<li>General preferences UI update</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v4.4.0/focusmode_v4.4.0.zip"
-                sparkle:edSignature="v/j8BFZ/voMcDwqWrDS1K2CWmyOs7NEDb4bP27Z03nRiR/SBrm6EA4iaukxaplrqarm4GVBv5Um1gNHyAzkxDw=="
-                length="6942101"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v4.5.0/focusmode_v4.5.0.zip"
+                sparkle:edSignature="BQlmgpHJqbPG24amIPwW72DyFXpQ3kKY+Xt4yIIke+LTOc2kTkiDy0HpqtZC5CR4qehWfvIWivfWV3O4UGPjCQ=="
+                length="7160412"
                 type="application/octet-stream"/>
         </item>
     </channel>
