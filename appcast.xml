@@ -4,7 +4,7 @@
         <title>FocusMode Updates</title>
         <item>
             <title>Version 4.8.1</title>
-            <pubDate>Fri, 18 Apr 2025 14:25:00 +0530</pubDate>
+            <pubDate>Fri, 18 Apr 2025 15:26:00 +0530</pubDate>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>4.8.1</sparkle:shortVersionString>
             <description><![CDATA[
@@ -20,8 +20,8 @@
             ]]></description>
             <enclosure
                 url="https://github.com/auspy/focusmode-updates/releases/download/v4.8.1/focusmode_v4.8.1.zip"
-                sparkle:edSignature="D03fftlb8CSxIAN6HxKsVfcNOexUV7XfzCHEtSCe/IKf6q1+tiPbigRFXDNr18KReyJbtASFXsGjKx3k9sPWDw=="
-                length="7917695"
+                sparkle:edSignature="6N019cPrURyHqgqJPIaqq0O1YrB4MSl0CJLZ/C7kgQDCPW0tb5hdxP7pGLnWeVcZ3mk/dZQxQWm0j5CuO5NnCg=="
+                length="7915671"
                 type="application/octet-stream"/>
         </item>
     </channel>
