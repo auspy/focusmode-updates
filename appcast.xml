@@ -3,31 +3,25 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 4.8.0</title>
-            <pubDate>Mon, 14 Apr 2025 00:53:00 +0530</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>4.8.0</sparkle:shortVersionString>
+            <title>Version 4.8.1</title>
+            <pubDate>Fri, 18 Apr 2025 14:25:00 +0530</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>4.8.1</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmode-4.8.0">FocusMode 4.8.0</h1>
+<h1 id="focusmode-4.8.1">FocusMode 4.8.1</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Features Tab</strong>: Now you can hide and disable any feature you don’t use from the FocusMode UI completely. This helps you keep the app personalized and minimal.</li>
-<li><strong>Preferences Window</strong>: We’ve redesigned it to make navigation easier with better organized settings under appropriate tabs.</li>
+<li><strong>Onboarding</strong>: Better introduction to focusmode</li>
 </ul>
 <h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
-<li>Fixed: Quick switching tasks from quick access now properly records your session</li>
-<li>Fixed: Calendar session sync no longer creates duplicate events and works correctly</li>
-<li>Fixed: Workspace blocked websites now properly appear in the websites tab</li>
-<li>Fixed: Calendar’s “snooze until time” feature is now working as expected</li>
-<li>Fixed: Pomodoro skip feature now functions correctly</li>
-<li>Fixed: Pomodoro break options now display properly in digital mode</li>
+<li>Fixed: License does not get reset on FocusMode update</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v4.8.0/focusmode_v4.8.0.zip"
-                sparkle:edSignature="wRxKXt8TQozQO6aIucImcgE6PduRjwmyrbXF+6I45i5QapwNvUTIRCIKMUvnqiwooa7+SE6Gxs/n//CD5bVRDw=="
-                length="7712440"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v4.8.1/focusmode_v4.8.1.zip"
+                sparkle:edSignature="D03fftlb8CSxIAN6HxKsVfcNOexUV7XfzCHEtSCe/IKf6q1+tiPbigRFXDNr18KReyJbtASFXsGjKx3k9sPWDw=="
+                length="7917695"
                 type="application/octet-stream"/>
         </item>
     </channel>
