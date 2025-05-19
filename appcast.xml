@@ -3,25 +3,24 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 4.8.2</title>
-            <pubDate>Sun, 04 May 2025 14:13:00 +0530</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>4.8.2</sparkle:shortVersionString>
+            <title>Version 4.9.0</title>
+            <pubDate>Mon, 19 May 2025 16:34:00 +0530</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>4.9.0</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmode-4.8.2">FocusMode 4.8.2</h1>
+<h1 id="focusmo-4.9.0">Focusmo 4.9.0</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Menu Bar Style</strong>: Move timer to menu bar</li>
-<li><strong>Notification Messages</strong>: Notification messages are now displayed in a more user-friendly.</li>
-<li><strong>Allowlist</strong>: Added allowlist in workspace to allow on specific websites and apps and block others.</li>
-<li><strong>Edit Task</strong>: Added edit task feature to modify task details from main window.</li>
-<li><strong>Duplicate Task</strong>: Added duplicate task feature to create a new task with the same details from the main window.</li>
+<li><strong>Drag to Focus</strong>: Simply hold Fn key and drag to select any task in any app to quickly start or add it to app for later</li>
+<li><strong>More Global Shortcuts</strong>: Now you can use shortcut to just select and start the task.</li>
+<li><strong>Movable Floating Icon</strong>: You can now hold and drag the floating icon to change its position. Thanks to Dr Dishant Pandya - Ph.D for Suggestion</li>
+<li><strong>Reminders Sync</strong>: Sync tasks from any reminders list and send tasks from IOS to the Focusmo.</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v4.8.2/focusmode_v4.8.2.zip"
-                sparkle:edSignature="QNidYuJX9IEDxATQlcdsTRNeFD1UdiNTd+2spuAW++cQayneYjYMIxcNm2gYGizC29o++We1jeTWx+/Vs2FIDQ=="
-                length="8051413"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v4.9.0/focusmode_v4.9.0.zip"
+                sparkle:edSignature="uYVZ9uX/L72pwj1Q4WAcklI2OrhgyltiXGP9lqTDi2c2Fp+r9vL9qiarowGikw/41p9XIxAYN43Y+JhD4d5hCw=="
+                length="8365011"
                 type="application/octet-stream"/>
         </item>
     </channel>
