@@ -3,69 +3,31 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.0.0</title>
-            <pubDate>Mon, 23 Jun 2025 15:58:00 +0530</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>5.0.0</sparkle:shortVersionString>
+            <title>Version 5.1.0</title>
+            <pubDate>Tue, 01 Jul 2025 15:31:00 +0530</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>5.1.0</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.0.0">Focusmo 5.0.0</h1>
+<h1 id="focusmo-5.1.0">Focusmo 5.1.0</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Workspaces - Windows Auto-Setup</strong>:
-<ul>
-<li>One-click -&gt; block websites and apps, open work apps, align in window</li>
-</ul></li>
-<li><strong>Timeline View</strong>:
-<ul>
-<li>Detailed day overview with precise time slot tracking</li>
-</ul></li>
-<li><strong>Streamlined Settings UI</strong>: Intuitive redesign of preferences interface for easier navigation and customization</li>
-<li><strong>Unified App Interface</strong>:
-<ul>
-<li>All screens now integrated into a single app window</li>
-<li>Introduced side panel for seamless navigation</li>
-</ul></li>
-<li><strong>Pomodoro System Redesign</strong>:
-<ul>
-<li>Complete redesign of the Pomodoro workflow</li>
-<li>Enhanced usability and user experience</li>
-</ul></li>
-<li><strong>Breathing Preparation</strong>:
-<ul>
-<li>New Breathing Intro feature with session ending warnings</li>
-<li>Helps you mentally prepare for focused work sessions</li>
-</ul></li>
-<li><strong>Fullscreen Breaks</strong>:
-<ul>
-<li>Intentional break system to prevent burnout</li>
-<li>Provides rest for eyes and maintains energy levels</li>
-</ul></li>
-<li><strong>Enhanced Floating Timer</strong>:
-<ul>
-<li>Improved status bar timer</li>
-<li>More detailed Pomodoro tracking</li>
-</ul></li>
-<li><strong>Advanced Analytics</strong>:
-<ul>
-<li>100% accurate work tracking</li>
-<li>Comprehensive insights into your productivity</li>
-</ul></li>
-<li><strong>Onboarding Reimagined</strong>: A completely redesigned onboarding experience to help you set up Focusmo more effectively</li>
-</ul>
-<h2 id="minor-updates">Minor Updates</h2>
-<ul>
-<li><code>Cmd + Shift + M</code> now toggles main window</li>
-<li>Floating button now opens quick access window</li>
+<li><strong>Apps and Website Tracking</strong> : Automatically track website and app tracking. Currently in Beta.</li>
+<li><strong>Analytics New Properties</strong> : Checkout most used apps and context switching stats</li>
 </ul>
 <h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
-<li>Fixed: Menu bar mode functionality issues</li>
+<li>Fixed: Timeline showing sessions of past day</li>
+<li>Fixed: Inaccurate hover state session timer in floating window</li>
+<li>Fixed: Sometimes inaccurate progess percentage in hover state session timer in floating window</li>
+<li>Fixed: Dropdown notification text color in system light mode</li>
+<li>Fixed: Some applications not visible in workpaces. eg: cursor.ai</li>
+<li>Fixed: Apps and website getting blocked even when not in session</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.0.0/focusmode_v5.0.0.zip"
-                sparkle:edSignature="5Si7HfGBrMn3LI9RKZcWN9C2hfF6gHHoVxELSjS/uGLMOi5Insz8LOQLsZcmH1SZl6CnO2ykTkWLJSTHDmzxCQ=="
-                length="13818807"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.1.0/focusmode_v5.1.0.zip"
+                sparkle:edSignature="PX0Ekj9pwxz2GNz9q5aeEz6mV1kBUgimiOqZfkdgaTiOB6v8n6Vu+fLMU8VhYNHdYFxTmhuMj+UhjMUnv7vrAA=="
+                length="14513516"
                 type="application/octet-stream"/>
         </item>
     </channel>
