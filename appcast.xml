@@ -3,31 +3,31 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.1.0</title>
-            <pubDate>Tue, 01 Jul 2025 15:31:00 +0530</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>5.1.0</sparkle:shortVersionString>
+            <title>Version 5.2.0</title>
+            <pubDate>Mon, 07 Jul 2025 22:49:00 +0530</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>5.2.0</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.1.0">Focusmo 5.1.0</h1>
+<h1 id="focusmo-5.2.0">Focusmo 5.2.0</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Apps and Website Tracking</strong> : Automatically track website and app tracking. Currently in Beta.</li>
-<li><strong>Analytics New Properties</strong> : Checkout most used apps and context switching stats</li>
-</ul>
-<h2 id="bug-fixes">Bug Fixes</h2>
+<li><strong>Workspaces</strong> : Made it easier to block apps in workspaces. <em>Thanks to <span class="citation" data-cites="nickwolf">@nickwolf</span></em>
 <ul>
-<li>Fixed: Timeline showing sessions of past day</li>
-<li>Fixed: Inaccurate hover state session timer in floating window</li>
-<li>Fixed: Sometimes inaccurate progess percentage in hover state session timer in floating window</li>
-<li>Fixed: Dropdown notification text color in system light mode</li>
-<li>Fixed: Some applications not visible in workpaces. eg: cursor.ai</li>
-<li>Fixed: Apps and website getting blocked even when not in session</li>
+<li>Grouped apps for easier blocking</li>
+<li>Grouped menu bar apps for easier blocking</li>
+<li>Duplicate workspaces to create variations faster</li>
+</ul></li>
+<li><strong>Quick Access Panel</strong>: Made it easier to change time in quick access panel. <em>Thanks to <span class="citation" data-cites="nickwolf">@nickwolf</span></em>
+<ul>
+<li>Use arrow keys on task to increase or decrease 5 mins and hold option key with arrow keys to increase/decrease 1 min from time</li>
+</ul></li>
+<li>Minor UI fixes</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.1.0/focusmode_v5.1.0.zip"
-                sparkle:edSignature="PX0Ekj9pwxz2GNz9q5aeEz6mV1kBUgimiOqZfkdgaTiOB6v8n6Vu+fLMU8VhYNHdYFxTmhuMj+UhjMUnv7vrAA=="
-                length="14513516"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.2.0/focusmode_v5.2.0.zip"
+                sparkle:edSignature="S3zLch/GlBjhvNg+H2wcfCzWc0dKBCIyngHZwYU7NfsGSn4i8HVFRD66/cAjV1ZnePfgC/tHue8r86bPO+i8DQ=="
+                length="14376699"
                 type="application/octet-stream"/>
         </item>
     </channel>
