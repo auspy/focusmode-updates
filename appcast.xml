@@ -3,31 +3,43 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.2.0</title>
-            <pubDate>Mon, 07 Jul 2025 22:49:00 +0530</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>5.2.0</sparkle:shortVersionString>
+            <title>Version 5.3.0</title>
+            <pubDate>Tue, 29 Jul 2025 11:59:00 +0530</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>5.3.0</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.2.0">Focusmo 5.2.0</h1>
+<h1 id="focusmo-5.3.0">Focusmo 5.3.0</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Workspaces</strong> : Made it easier to block apps in workspaces. <em>Thanks to <span class="citation" data-cites="nickwolf">@nickwolf</span></em>
+<li><strong>Deep Focus Mode</strong>: A new distraction-free work mode designed to help you maintain intense concentration during important tasks</li>
+<li><strong>Daily Goals &amp; Streaks</strong>: Set daily focus goals and track your streaks to build consistent work habits</li>
+<li><strong>Enhanced Analytics</strong>: New minimal and detailed views to make it easier to understand your productivity patterns and track your progress</li>
+<li><strong>Menu Bar Updates</strong>: Show task title and progress in menubar <em>Special thanks to ygeorgik for the great suggestions</em></li>
+<li><strong>Pomodoro Improvements</strong>: Pomodoro is independent of task timer and works like normal pomodoro timers now</li>
+<li><strong>More Accessible Features</strong>: Many previously premium features are now available to all users, including unlimited timer duration and task creation</li>
+<li><strong>Floating Timer</strong>: See daily goal progress in floating timer</li>
+<li><strong>Keyboard Shortcuts for Timer End Screens</strong>: Quickly move between options using arrow keys and select with enter <em>Thank you nickwolf for the suggestion</em></li>
+</ul>
+<h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
-<li>Grouped apps for easier blocking</li>
-<li>Grouped menu bar apps for easier blocking</li>
-<li>Duplicate workspaces to create variations faster</li>
-</ul></li>
-<li><strong>Quick Access Panel</strong>: Made it easier to change time in quick access panel. <em>Thanks to <span class="citation" data-cites="nickwolf">@nickwolf</span></em>
+<li>Fixed issues with analytics data not displaying correctly</li>
+<li>Fixed: Break timer starts early even after time increase <em>Big thanks to -y-hetrel for the detailed report</em></li>
+<li>Fixed: Session does not reset on manual break <em>Also reported by -y-hetrel - much appreciated!</em></li>
+<li>Improved overall app performance and responsiveness</li>
+<li>Fixed: Auto updates not working</li>
+<li>Fixed: Activity tracking major performace issues <em>Shoutout to christopher for flagging this</em></li>
+</ul>
+<h2 id="technical-improvements">Technical Improvements</h2>
 <ul>
-<li>Use arrow keys on task to increase or decrease 5 mins and hold option key with arrow keys to increase/decrease 1 min from time</li>
-</ul></li>
-<li>Minor UI fixes</li>
+<li>Enhanced app stability and performance</li>
+<li>Better data synchronization across features</li>
+<li>Improved user interface responsiveness</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.2.0/focusmode_v5.2.0.zip"
-                sparkle:edSignature="S3zLch/GlBjhvNg+H2wcfCzWc0dKBCIyngHZwYU7NfsGSn4i8HVFRD66/cAjV1ZnePfgC/tHue8r86bPO+i8DQ=="
-                length="14376699"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.3.0/focusmode_v5.3.0.zip"
+                sparkle:edSignature="5DooqEzTvpn4y9ZQFkB0scb7tYjz6o7tztl1u8YksqpLZnX57mPqqjQhD94UoaXMoFvO945C/bv5Hpgj49r5Bg=="
+                length="15808149"
                 type="application/octet-stream"/>
         </item>
     </channel>
