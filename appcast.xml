@@ -3,43 +3,33 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.3.0</title>
-            <pubDate>Tue, 29 Jul 2025 13:12:00 +0530</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>5.3.0</sparkle:shortVersionString>
+            <title>Version 5.3.1</title>
+            <pubDate>Thu, 31 Jul 2025 10:01:00 +0530</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>5.3.1</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.3.0">Focusmo 5.3.0</h1>
+<h1 id="focusmo-5.3.1">Focusmo 5.3.1</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Deep Focus Mode</strong>: A new distraction-free work mode designed to help you maintain intense concentration during important tasks</li>
-<li><strong>Daily Goals &amp; Streaks</strong>: Set daily focus goals and track your streaks to build consistent work habits</li>
-<li><strong>Enhanced Analytics</strong>: New minimal and detailed views to make it easier to understand your productivity patterns and track your progress</li>
-<li><strong>Menu Bar Updates</strong>: Show task title and progress in menubar <em>Special thanks to ygeorgik for the great suggestions</em></li>
-<li><strong>Pomodoro Improvements</strong>: Pomodoro is independent of task timer and works like normal pomodoro timers now</li>
-<li><strong>More Accessible Features</strong>: Many previously premium features are now available to all users, including unlimited timer duration and task creation</li>
-<li><strong>Floating Timer</strong>: See daily goal progress in floating timer</li>
-<li><strong>Keyboard Shortcuts for Timer End Screens</strong>: Quickly move between options using arrow keys and select with enter <em>Thank you nickwolf for the suggestion</em></li>
+<li><strong>Workspace</strong>: Set a default workspace for each task</li>
+<li><strong>Floating Button</strong>: Reset to default position to make it easier to find <em>Thanks ygeorgik for suggestion</em></li>
+<li><strong>Calendar Events</strong>: Add default calendar events for each task <em>Thanks grrstine for suggestion</em></li>
 </ul>
 <h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
-<li>Fixed issues with analytics data not displaying correctly</li>
-<li>Fixed: Break timer starts early even after time increase <em>Big thanks to -y-hetrel for the detailed report</em></li>
-<li>Fixed: Session does not reset on manual break <em>Also reported by -y-hetrel - much appreciated!</em></li>
-<li>Improved overall app performance and responsiveness</li>
-<li>Fixed: Auto updates not working</li>
-<li>Fixed: Activity tracking major performace issues <em>Shoutout to christopher for flagging this</em></li>
-</ul>
-<h2 id="technical-improvements">Technical Improvements</h2>
-<ul>
-<li>Enhanced app stability and performance</li>
-<li>Better data synchronization across features</li>
-<li>Improved user interface responsiveness</li>
+<li>Fixed: Menu bar complete not working <em>Thank you ygeorgik for finding the bug</em></li>
+<li>Fixed: Empty task showing in the menu bar <em>Special thanks to ygeorgik for reporting</em></li>
+<li>Fixed: Timer going in overtime instead of user decision screen</li>
+<li>Fixed: Pomodoro timer not moving to next stage on auto break</li>
+<li>Fixed: Tasks not removed from deep focus list on task completion or deletion</li>
+<li>Fixed: Analytics cleanup removing the data</li>
+<li>Fixed: Move to menu bar color white in light mode</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.3.0/focusmode_v5.3.0.zip"
-                sparkle:edSignature="eI0U0ThZsynljUr+DqMOkVlylSm7az2Q7w2ZWDrZlBiRCLdflJNEwQm1A+YoNtN2bldgQVts9edPZKKShSuOAA=="
-                length="15809090"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.3.1/focusmode_v5.3.1.zip"
+                sparkle:edSignature="lkhB5rubmzOgr+S2jhipeQP4WnXP6RaWFQyRPcI62c4KJWAmxAjqEJdp/ch3jza4hX+lsks+osim2T33bO5WCA=="
+                length="15604435"
                 type="application/octet-stream"/>
         </item>
     </channel>
