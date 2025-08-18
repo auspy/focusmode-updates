@@ -3,49 +3,23 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.4.0</title>
-            <pubDate>Mon, 18 Aug 2025 00:57:00 +0530</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>5.4.0</sparkle:shortVersionString>
+            <title>Version 5.4.1</title>
+            <pubDate>Tue, 19 Aug 2025 01:44:00 +0530</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>5.4.1</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.4.0">Focusmo 5.4.0</h1>
-<h2 id="whats-new">What’s New</h2>
-<ul>
-<li><strong>Floating Button Mode</strong>: Quickly view your top 3 tasks at a glance</li>
-<li><strong>Enhanced Activity Tracking Screen</strong>: Redesigned with a more minimal and intuitive interface
-<ul>
-<li>Monitor app and website activity during each task</li>
-<li>100% accurate tracking with 1-second precision</li>
-</ul></li>
-<li><strong>Smart Backlog</strong>: New backlog system with seamless task restoration</li>
-<li><strong>Reset Timer</strong>: Reset task time and start fresh whenever needed</li>
-<li><strong>Improved Visual Cues</strong>: Color-coded resume indicators and timer type chips at the bottom</li>
-<li><strong>Streamlined Onboarding</strong>: New getting started flow to help users set up app features effortlessly</li>
-<li><strong>Universal Drag to Focus</strong>: Hold Fn and drag from any application</li>
-</ul>
-<h2 id="performance-improvements">Performance Improvements</h2>
-<ul>
-<li>Enhanced timeline performance for smoother navigation</li>
-<li>Optimized analytics with intelligent caching</li>
-<li>Faster activity tracking with improved loading mechanisms</li>
-</ul>
+<h1 id="focusmo-5.4.1">Focusmo 5.4.1</h1>
 <h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
-<li>Fixed session task name accuracy issues</li>
-<li>Fixed non-functional complete shortcut</li>
-<li>Eliminated slight delay in breathing exercise intro</li>
-<li>Resolved inconsistent menu bar visibility</li>
-<li>Fixed daily focus time discrepancies between floating timer and analytics</li>
-<li>Corrected remaining task time inconsistencies across different screens</li>
-<li>Fixed adjusted session time in Pomodoro mode starting from 1 minute</li>
-<li>Resolved non-functional full screen break toggle in notification preferences</li>
-<li>Fixed workspace not updating when switching tasks</li>
+<li>Auto task completion not registering in timeline</li>
+<li>Pomdoro settings visible in backlog</li>
+<li>Sometimes website blocking stays on when timer not running</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.4.0/focusmode_v5.4.0.zip"
-                sparkle:edSignature="pDvn4Sk0gvVJxSDgR+9ahrjEiQKxJNTTd3Hsho4QyK459pb4iUR9vEauFwQiL00pYLWbOt1Wns9f7alLqK+cBw=="
-                length="18223705"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.4.1/focusmode_v5.4.1.zip"
+                sparkle:edSignature="8C0gfyJ0sL3/2+biQknx6yAMb+hdR36UmzQpBMOnAtOPsqIcDLArpKH4p5KoALMqJNUKS8fjVLop2Dt9ZbfmAw=="
+                length="17966499"
                 type="application/octet-stream"/>
         </item>
     </channel>
