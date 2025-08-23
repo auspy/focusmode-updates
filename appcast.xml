@@ -3,23 +3,38 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.4.1</title>
-            <pubDate>Tue, 19 Aug 2025 01:44:00 +0530</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>5.4.1</sparkle:shortVersionString>
+            <title>Version 5.5.0</title>
+            <pubDate>Sat, 23 Aug 2025 23:40:00 +0530</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>5.5.0</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.4.1">Focusmo 5.4.1</h1>
+<h1 id="focusmo-5.5.0">Focusmo 5.5.0</h1>
+<h2 id="whats-new">What’s New</h2>
+<ul>
+<li><strong>Bulk Edit Workspaces</strong>: Make changes to all your workspaces at once. <em>Thanks to nickwolf for suggestion</em></li>
+<li><strong>Menu Bar App</strong>: Focusmo now works from your menu bar without needing the main window</li>
+<li><strong>Minimal Floating Timer</strong>: A simple floating timer that stays out of your way. <em>Thanks to Ygeorgik for suggestion</em></li>
+<li><strong>New Getting Started</strong>: Better setup flow to help you get started quickly</li>
+<li><strong>Task List Protection</strong>: Buttons in task list don’t work during focus time to avoid unintended actions</li>
+<li><strong>Hide Seconds in Floating Timer(Experimental)</strong>: Hide seconds in floating timer to avoid distraction. <em>Special thanks to Ygeorgik for all the help</em></li>
+</ul>
+<h2 id="minor-updates">Minor Updates</h2>
+<ul>
+<li>Faster workspace changes</li>
+<li>Better menu bar speed</li>
+<li>Lighter floating timer that uses less computer power</li>
+<li>Rename “Start Task Immediately” to “Start Selected Text as Task” for better clarity</li>
+</ul>
 <h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
-<li>Auto task completion not registering in timeline</li>
-<li>Pomdoro settings visible in backlog</li>
-<li>Sometimes website blocking stays on when timer not running</li>
+<li>Fixed task list buttons working when they shouldn’t during focus sessions</li>
+<li>Improved app stability when running from menu bar only</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.4.1/focusmode_v5.4.1.zip"
-                sparkle:edSignature="8C0gfyJ0sL3/2+biQknx6yAMb+hdR36UmzQpBMOnAtOPsqIcDLArpKH4p5KoALMqJNUKS8fjVLop2Dt9ZbfmAw=="
-                length="17966499"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.5.0/focusmode_v5.5.0.zip"
+                sparkle:edSignature="XLgIYgDyMJLW0w904CduEtLEZhFB6cV4hLprCtQlwnCJatTx2cT0l1L7aA2xkBs9X8KXoV2Xgo/MhQffR77/Bw=="
+                length="18346046"
                 type="application/octet-stream"/>
         </item>
     </channel>
