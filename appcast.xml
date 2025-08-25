@@ -3,38 +3,27 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.5.0</title>
-            <pubDate>Sat, 23 Aug 2025 23:40:00 +0530</pubDate>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>5.5.0</sparkle:shortVersionString>
+            <title>Version 5.5.1</title>
+            <pubDate>Mon, 25 Aug 2025 20:58:00 +0530</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>5.5.1</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.5.0">Focusmo 5.5.0</h1>
+<h1 id="focusmo-5.5.1">Focusmo 5.5.1</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Bulk Edit Workspaces</strong>: Make changes to all your workspaces at once. <em>Thanks to nickwolf for suggestion</em></li>
-<li><strong>Menu Bar App</strong>: Focusmo now works from your menu bar without needing the main window</li>
-<li><strong>Minimal Floating Timer</strong>: A simple floating timer that stays out of your way. <em>Thanks to Ygeorgik for suggestion</em></li>
-<li><strong>New Getting Started</strong>: Better setup flow to help you get started quickly</li>
-<li><strong>Task List Protection</strong>: Buttons in task list don’t work during focus time to avoid unintended actions</li>
-<li><strong>Hide Seconds in Floating Timer(Experimental)</strong>: Hide seconds in floating timer to avoid distraction. <em>Special thanks to Ygeorgik for all the help</em></li>
-</ul>
-<h2 id="minor-updates">Minor Updates</h2>
-<ul>
-<li>Faster workspace changes</li>
-<li>Better menu bar speed</li>
-<li>Lighter floating timer that uses less computer power</li>
-<li>Rename “Start Task Immediately” to “Start Selected Text as Task” for better clarity</li>
+<li><strong>Hide timer display in all timer modes</strong> : Hide the timer display to save space, reduce visual clutter. Timer is visible on hover.</li>
 </ul>
 <h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
-<li>Fixed task list buttons working when they shouldn’t during focus sessions</li>
-<li>Improved app stability when running from menu bar only</li>
+<li>Fixed: Task switching not working using “Start selected text as task” shortcut or quick access panel.</li>
+<li>1 min warning not showing in pomodoro mode.</li>
+<li>Opening multiple windows on timer end screen.</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.5.0/focusmode_v5.5.0.zip"
-                sparkle:edSignature="XLgIYgDyMJLW0w904CduEtLEZhFB6cV4hLprCtQlwnCJatTx2cT0l1L7aA2xkBs9X8KXoV2Xgo/MhQffR77/Bw=="
-                length="18346046"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.5.1/focusmode_v5.5.1.zip"
+                sparkle:edSignature="rwe0w6eUnWKRYSrq+EyvaUBE9oi5H+pO9uaWdpvuHqBcWW/FCVUiPusuUYRq2DLNUK4O2ioBYNlk19kBMDVDDg=="
+                length="18109716"
                 type="application/octet-stream"/>
         </item>
     </channel>
