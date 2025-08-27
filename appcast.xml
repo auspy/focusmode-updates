@@ -3,33 +3,23 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.3.1</title>
-            <pubDate>Thu, 31 Jul 2025 10:01:00 +0530</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>5.3.1</sparkle:shortVersionString>
+            <title>Version 5.5.2</title>
+            <pubDate>Wed, 27 Aug 2025 23:03:00 +0530</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>5.5.2</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.3.1">Focusmo 5.3.1</h1>
-<h2 id="whats-new">What’s New</h2>
-<ul>
-<li><strong>Workspace</strong>: Set a default workspace for each task</li>
-<li><strong>Floating Button</strong>: Reset to default position to make it easier to find <em>Thanks ygeorgik for suggestion</em></li>
-<li><strong>Calendar Events</strong>: Add default calendar events for each task <em>Thanks grrstine for suggestion</em></li>
-</ul>
+<h1 id="focusmo-5.5.1">Focusmo 5.5.1</h1>
 <h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
-<li>Fixed: Menu bar complete not working <em>Thank you ygeorgik for finding the bug</em></li>
-<li>Fixed: Empty task showing in the menu bar <em>Special thanks to ygeorgik for reporting</em></li>
-<li>Fixed: Timer going in overtime instead of user decision screen</li>
-<li>Fixed: Pomodoro timer not moving to next stage on auto break</li>
-<li>Fixed: Tasks not removed from deep focus list on task completion or deletion</li>
-<li>Fixed: Analytics cleanup removing the data</li>
-<li>Fixed: Move to menu bar color white in light mode</li>
+<li>Fixed: Dock icon not working properly</li>
+<li>Fixed: app not working like menu bar app and showing dock icon</li>
+<li>Fixed: Status bar icon not opening quick access command panel</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.3.1/focusmode_v5.3.1.zip"
-                sparkle:edSignature="lkhB5rubmzOgr+S2jhipeQP4WnXP6RaWFQyRPcI62c4KJWAmxAjqEJdp/ch3jza4hX+lsks+osim2T33bO5WCA=="
-                length="15604435"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.5.2/focusmode_v5.5.2.zip"
+                sparkle:edSignature="G/3PVBerQWOcTxolfaoUrSQskR/N6EhVb+eBmyvwBe63N8aRq20UiELmw1iWXz3cOvGegezeDGNrOnAcb4ARCg=="
+                length="18366223"
                 type="application/octet-stream"/>
         </item>
     </channel>
