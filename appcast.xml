@@ -4,11 +4,11 @@
         <title>FocusMode Updates</title>
         <item>
             <title>Version 5.5.2</title>
-            <pubDate>Wed, 27 Aug 2025 23:03:00 +0530</pubDate>
+            <pubDate>Wed, 27 Aug 2025 23:16:00 +0530</pubDate>
             <sparkle:version>30</sparkle:version>
             <sparkle:shortVersionString>5.5.2</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.5.1">Focusmo 5.5.1</h1>
+<h1 id="focusmo-5.5.2">Focusmo 5.5.2</h1>
 <h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
 <li>Fixed: Dock icon not working properly</li>
@@ -18,7 +18,7 @@
             ]]></description>
             <enclosure
                 url="https://github.com/auspy/focusmode-updates/releases/download/v5.5.2/focusmode_v5.5.2.zip"
-                sparkle:edSignature="G/3PVBerQWOcTxolfaoUrSQskR/N6EhVb+eBmyvwBe63N8aRq20UiELmw1iWXz3cOvGegezeDGNrOnAcb4ARCg=="
+                sparkle:edSignature="S5aEcr7QYd6tW+KzGSab6ED4Vjiq1qpuDCUOP5v9Z7V6VcvxBFFHdhRIZsyaNFNa+uJ0vIfCZbI/I5al6mQhBg=="
                 length="18366223"
                 type="application/octet-stream"/>
         </item>
