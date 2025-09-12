@@ -3,47 +3,29 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.6.0</title>
-            <pubDate>Fri, 12 Sep 2025 03:40:00 +0530</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>5.6.0</sparkle:shortVersionString>
+            <title>Version 5.6.1</title>
+            <pubDate>Fri, 12 Sep 2025 16:48:00 +0530</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>5.6.1</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.6.0">Focusmo 5.6.0</h1>
+<h1 id="focusmo-5.6.1">Focusmo 5.6.1</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Smart Logging System</strong>: Introducing logging, a new way to stay accountable and track your progress.
-<ul>
-<li>Add log anytime using global shortcut (cmd + ctrl + l), floating island or command panel</li>
-<li>Bonus: Convert your logs into structured focus sessions for better analytics instantly from floating island or when creating a log</li>
-</ul></li>
-<li><strong>Redesigned Timeline</strong>: Timeline interface has been relocated and enhanced within the activity screen for a more intuitive experience</li>
-<li><strong>Unified Activity Dashboard</strong>: A completely redesigned activity view that merges analytics and activity tracking into one comprehensive interface
-<ul>
-<li>Access detailed activity data for any day</li>
-<li>Enhanced visualization with improved charts and data presentation</li>
-<li>Rich insights and analytics to understand your productivity patterns</li>
-<li>Seamlessly integrated logs within your timeline view</li>
-</ul></li>
-<li><strong>Daily Goal Screen</strong>: Beautiful chart display for tracking your daily focus goals and progress</li>
-<li><strong>Floating Island Interface</strong>: Introducing a new sleek, minimal floating bar that provides quick access to logging and task creation without disrupting your workflow.
-<ul>
-<li>Bonus: You can write anything like a motivation quote or reminder to keep you focused</li>
-</ul></li>
-<li><strong>Calendar Events in Menubar</strong>: See upcoming events with countdown timer and notifications. Easily view and manage your calendar events directly from the menubar.</li>
-<li><strong>Login using Google</strong>: No need to enter license to access your account, just login using your Google account. This creates base for future real-time sync.</li>
+<li><strong>Minimal timer reset position</strong> : Reset the minimal timer to its default position is now optional</li>
 </ul>
 <h2 id="bug-fixes">Bug Fixes</h2>
 <ul>
-<li>Fixed skip button behavior in 1-minute warning - now correctly skips break instead of ending the entire session</li>
-<li>Fixed: Not able to complete tasks when in paused state</li>
-<li>Fixed: Activity duration calculation not accounting for overlaps and idle time</li>
-<li>Fixed: Focus streak calculation</li>
+<li>Fixed: Floating timer complete button not visible.</li>
+<li>Fixed: Navigation issues when using shortcuts to open screens in main window.</li>
+<li>Fixed: Windows not opening properly from three dot menu in floating island.</li>
+<li>Fixed: Default values not registering correctly in settings.</li>
+<li>Fixed: Logging prompt appearing non-stop</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.6.0/focusmode_v5.6.0.zip"
-                sparkle:edSignature="bR7CzlL2D+jz7P06rpJIU+L76wTnJKXrZmNqSG0rYgNPP2CJnIi9hvHiECJxi65ldDlnuCRfMECQxsPKwBKIBA=="
-                length="20562977"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.6.1/focusmode_v5.6.1.zip"
+                sparkle:edSignature="+53Rwl90iRAXUMf5qWH7P2W9iBj1O5lMFycOewAsQhSvpTVuncIZNFpxVjuW0+GK8cBpKBRA7jlR93+Te8HVCA=="
+                length="20310615"
                 type="application/octet-stream"/>
         </item>
     </channel>
