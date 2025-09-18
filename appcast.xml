@@ -3,28 +3,21 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.7.0</title>
-            <pubDate>Tue, 16 Sep 2025 04:32:00 +0530</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>5.7.0</sparkle:shortVersionString>
+            <title>Version 5.7.1</title>
+            <pubDate>Thu, 18 Sep 2025 18:10:00 +0530</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>5.7.1</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.7.0">Focusmo 5.7.0</h1>
+<h1 id="focusmo-5.7.1">Focusmo 5.7.1</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Projects</strong> : Introducing Projects(earlier Workspaces), a new way to categorise tasks. See how much time you spend on coding, or writing or any project as you work.
-<ul>
-<li>Set apps and websites blocking rules for each project.</li>
-<li>Open apps for your project in a single click</li>
-</ul></li>
-<li><strong>Growth Stats</strong> : View your growth in realtime. See exactly how much you grew from last day or week or month in a single glance.</li>
-<li><strong>Edit Sessions in Timeline</strong>: Easily assign projects to any session</li>
-<li><strong>More Metrics to Track</strong>: Since there are more metrics, you can pin any metric on top. Just hover and click pin icon.</li>
+<li><strong>Tahoe(macOS 26.0) support</strong>: Fixed crashes causing when using Focusmo in tahoe and some ui issues with new mode.</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.7.0/focusmode_v5.7.0.zip"
-                sparkle:edSignature="U27Zr4cPFneZs+TdqdMmwqAZ05lCn7IShgB43w/VaXBRJoAo4tUfF23aTy98iICrn05+8hlN7+tT9SVTnD8+Ag=="
-                length="20763723"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.7.1/focusmode_v5.7.1.zip"
+                sparkle:edSignature="kLQhwJHcXstBOKshTRkr78QURxFc4Lx8eI6mmXZrWf/Wfukw+0DzFkXwqDHG38P1/0O2454hb4Brr9PA5AA4Ag=="
+                length="20800502"
                 type="application/octet-stream"/>
         </item>
     </channel>
