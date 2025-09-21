@@ -3,21 +3,29 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.7.1</title>
-            <pubDate>Thu, 18 Sep 2025 18:10:00 +0530</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>5.7.1</sparkle:shortVersionString>
+            <title>Version 5.8.0</title>
+            <pubDate>Sun, 21 Sep 2025 20:37:00 +0530</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>5.8.0</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.7.1">Focusmo 5.7.1</h1>
+<h1 id="focusmo-5.8.0">Focusmo 5.8.0</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Tahoe(macOS 26.0) support</strong>: Fixed crashes causing when using Focusmo in tahoe and some ui issues with new mode.</li>
+<li><strong>Calendar Integration</strong>: View calendar events directly in your timeline for better schedule awareness</li>
+<li><strong>Task Creation from Events</strong>: Convert calendar events into actionable tasks with a single click</li>
+<li><strong>Notification Management</strong>: See and control calendar notification states directly from the timeline interface</li>
+</ul>
+<h2 id="bug-fixes">Bug Fixes</h2>
+<ul>
+<li>Fixed trial sync not working properly</li>
+<li>Resolved menu bar icon not showing issue</li>
+<li>Fixed top apps and websites not updating on session change</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.7.1/focusmode_v5.7.1.zip"
-                sparkle:edSignature="kLQhwJHcXstBOKshTRkr78QURxFc4Lx8eI6mmXZrWf/Wfukw+0DzFkXwqDHG38P1/0O2454hb4Brr9PA5AA4Ag=="
-                length="20800502"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.8.0/focusmode_v5.8.0.zip"
+                sparkle:edSignature="H4jg68dpxe4yE2sTJ5wG34RuU4wRgP8QNN7WTfJpI7Rb52DzDGm6EQO/JKQ9A1GDGb8ocpkdTOmg/B1XEUqhAA=="
+                length="21057757"
                 type="application/octet-stream"/>
         </item>
     </channel>
