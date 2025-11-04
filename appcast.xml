@@ -3,29 +3,22 @@
     <channel>
         <title>FocusMode Updates</title>
         <item>
-            <title>Version 5.8.0</title>
-            <pubDate>Mon, 22 Sep 2025 11:34:00 +0530</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>5.8.0</sparkle:shortVersionString>
+            <title>Version 5.9.0</title>
+            <pubDate>Tue, 04 Nov 2025 23:26:00 +0530</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>5.9.0</sparkle:shortVersionString>
             <description><![CDATA[
-<h1 id="focusmo-5.8.0">Focusmo 5.8.0</h1>
+<h1 id="focusmo-5.9.0">Focusmo 5.9.0</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li><strong>Calendar Integration</strong>: View calendar events directly in your timeline for better schedule awareness</li>
-<li><strong>Task Creation from Events</strong>: Convert calendar events into actionable tasks with a single click</li>
-<li><strong>Notification Management</strong>: See and control calendar notification states directly from the timeline interface</li>
-</ul>
-<h2 id="bug-fixes">Bug Fixes</h2>
-<ul>
-<li>Fixed trial sync not working properly</li>
-<li>Resolved menu bar icon not showing issue</li>
-<li>Fixed top apps and websites not updating on session change</li>
+<li><strong>Menubar Timeline</strong>: Timeline in your menubar</li>
+<li><strong>Scheduling</strong>: Schedule your day and get notified for tasks and events</li>
 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/auspy/focusmode-updates/releases/download/v5.8.0/focusmode_v5.8.0.zip"
-                sparkle:edSignature="hZ7LSih0Vp6/DAqDXXSAOrrP9EF85ar6cAViXzPi66NRnbSCvkLy+6u45xKAKQuZaF4FQfmn7Kck3ap95NMDDw=="
-                length="21045291"
+                url="https://github.com/auspy/focusmode-updates/releases/download/v5.9.0/focusmode_v5.9.0.zip"
+                sparkle:edSignature="wjjxIuZMHIFMLJhDgOWQtRZGt5B0EBAEF5xOwYA1AWf7MijXl1IkZZeg/wH5q3QxhyHdwBjteBkXCEEffPTaAg=="
+                length="21668209"
                 type="application/octet-stream"/>
         </item>
     </channel>
